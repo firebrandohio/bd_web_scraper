@@ -1,0 +1,1 @@
+Web scraper project for boot.dev guided project
